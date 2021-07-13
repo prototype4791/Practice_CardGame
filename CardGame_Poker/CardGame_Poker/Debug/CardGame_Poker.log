@@ -1,0 +1,3 @@
+﻿  CardGame_Poker.cpp
+C:\Users\User\source\repos\CardGame_Poker\CardGame_Poker\CardGame_Poker.cpp(665,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CardGame_Poker.vcxproj -> C:\Users\User\source\repos\CardGame_Poker\Debug\CardGame_Poker.exe
